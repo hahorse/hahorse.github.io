@@ -1,1 +1,20 @@
-theme: jekyll-theme-cayman
+# Site Settings
+locale                   : "ko"
+title                    : "제목"
+title_separator          : "-"
+name                     : "서윤하"
+description              : "컴퓨터에 대한"
+url                      : https://hahorse.github.io
+# the base hostname & protocol for your site e.g."https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : hahorse/hahorse.github.io
+# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+~~~~~~~~~~~~~~~~~~
+# Site Author
+author:
+  name             : "서윤하"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "안녕하세요."
+  location         : "Somewhere"
+  theme: jekyll-theme-cayman
+~~~~~~~~~~~~~~~~~~
