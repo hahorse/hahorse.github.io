@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: 서윤하의 컴퓨터
 email: hahorse@naver.com
-description: >- 컴퓨터를 공부하고 배우는 곳
+description: ">- 컴퓨터를 공부하고 배우는 곳"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://hahorse.github.io/
 twitter_username: hahorse
