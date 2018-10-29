@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![profile](C:\Users\HaHorse\Documents\GitHub\hahorse.github.io\assets\images\profile.jpeg)
+![profile](https://user-images.githubusercontent.com/44470752/47646544-9334a880-dbb7-11e8-8a3b-41d5af5ce1fa.jpeg)
 
 <p>Study hard</p>
 
