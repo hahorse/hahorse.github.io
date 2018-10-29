@@ -1,15 +1,14 @@
 ---
-title: "Markdown Common Elements"
+title: "2018 10 28 TIL"
 layout: post
-date: 2016-02-24 22:44
+date: 2018-10-28 22:34
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- elements
+- TIL
 star: true
 category: blog
-author: johndoe
+author: Yoon Ha Seo
 description: Markdown summary with different options
 ---
 
