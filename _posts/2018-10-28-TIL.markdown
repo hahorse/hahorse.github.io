@@ -14,8 +14,6 @@ description: Markdown summary with different options
 
 ---
 
-
-
 # 2018-10-28 TIL
 
 ## ¹è¿î°Í 

@@ -13,4 +13,13 @@ author: johndoe
 description: Markdown summary with different options
 ---
 
-## Basic 
+# 2018-10-28 TIL
+
+## 배운것 
+
+- GITHUB 사용 방법 학습
+
+## 할것
+
+- Typora 프로그램 설치 
+- Github Desktop 프로그램 설치
