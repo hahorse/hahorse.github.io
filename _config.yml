@@ -8,12 +8,12 @@ description: A blog about my story
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: C:\Users\HaHorse\Desktop
+picture: C:\Users\HaHorse\Pictures\Saved Pictures/pro.jpeg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external:false
 resume-url: https://google.com/?q=my+resume
 
 url:  http://hahorse.github.io
@@ -34,7 +34,7 @@ disqus:
   categories: [TIL, Code] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: 서윤하
+facebook: profile.php?id=100013887011118
 twitter: ★
 
 # google: ★
@@ -49,7 +49,7 @@ github: https://github.com/hahorse
 # stackoverflow: ★
 # quora: ★
 # reddit: ★
-medium: medium
+medium: ★
 # vimeo:★
 # lanyrd: ★
 email: hahorse@naver.com
