@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![profile](C:\Users\HaHorse\Documents\GitHub\hahorse.github.io\assets\images\profile.jpeg)
 
 <p>Study hard</p>
 
