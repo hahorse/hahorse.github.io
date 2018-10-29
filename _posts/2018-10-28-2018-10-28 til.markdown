@@ -9,7 +9,6 @@ tag:
 star: true
 category: blog
 author: Yoon Ha Seo
-description: Markdown summary with different options
 ---
 
 # 2018-10-28 TIL
