@@ -1,40 +1,102 @@
-﻿# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# main text of home
+name: Yoon HA Seo
+bio: Study hard
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Seo's Story
+# twitter summary info
+description: A blog about my story
+
+# if it's an external image, update below for true
+# better with square images
+external-image: true
+picture: C:\Users\HaHorse\Desktop
+
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: true
+resume-external: true
+resume-url: https://google.com/?q=my+resume
+
+url:  http://hahorse.github.io
+# your url: http://hahorse.github.io
+
+permalink: /:title/
+
+# To enable google analytics, supply your token below
+# analytics-google: 'UA-MYANALYTICS'
+
+# To enable piwik tracking, supply your url & site ID below
+# analytics-piwik-url: 'piwik.my-host.com'
+# analytics-piwik-id: 1
+
+# if you don't want comments in your posts, leave categories empty
+disqus:
+  shortname: Yoon Ha Seo # enter this from your disqus account
+  categories: [TIL, Code] # only show disqus for posts that have these categories
+
+# if you don't have any of social below, comment the line
+facebook: 서윤하
+twitter: ★
+
+# google: ★
+# instagram: ★
+# pinterest: ★
+# linkedin: ★
+# youtube: ★
+# spotify: ★
+github: https://github.com/hahorse
+# gitlab: hahorse.github.io
+# lastfm: ★
+# stackoverflow: ★
+# quora: ★
+# reddit: ★
+medium: medium
+# vimeo:★
+# lanyrd: ★
 email: hahorse@naver.com
-description: ">- 컴퓨터를 공부하고 배우는 곳"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: https://hahorse.github.io/
-twitter_username: hahorse
-github_username: hahorse
 
-# Build settings
-markdown: kramdown
-theme: jekyll-theme-cayman
+authors: Yoon Ha Seo
+​       
+
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: normal
+
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+# if you don't need projects, comment the *projects* configs below
+projects: true
+
+# if you don't need "about" or "blog", comment them out below
+about: true
+blog: true
+
+# do you want to show the "read time" of the posts?
+read-time: true
+
+# do you want to show the "tags" inside the posts?
+show-tags: true
+
+# related posts inside a post?
+related: true
+
+# Display links for next and previous posts for the specified categories
+post-advance-links: [blog]
+
+# show author block at the end of a post ?
+show-author: true
+
+# do you want some animations?
+animation: true
+
 plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
   - jekyll-feed
+  - jemoji
+  - jekyll-admin
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+jekyll-mentions:
+​    base_url: https://github.com

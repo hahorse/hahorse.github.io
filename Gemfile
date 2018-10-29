@@ -1,7 +1,5 @@
-source 'https://rubygems.org'
-gemspec
+source 'http://rubygems.org'
 
-gem 'jekyll'
-gem 'jekyll-paginate'
-gem 'kramdown'
-gem 'pygments.rb'
+gem 'github-pages'
+gem 'html-proofer'
+gem 'jekyll-admin'
