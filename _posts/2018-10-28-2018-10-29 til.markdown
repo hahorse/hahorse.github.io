@@ -1,0 +1,24 @@
+---
+title: "2018 10 29 TIL"
+layout: post
+date: 2018-10-2 22:01
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- TIL
+star: true
+category: blog
+author: Yoon Ha Seo
+---
+
+# 2018-10-29 TIL
+
+## 한것
+
+- hahorse.github.io 싸이트 완성
+- 블로그와 연동
+- hahorse.github.io 테마 바꾸기
+
+## 할것
+
+- 영어 8, 9, SU2 본문 암기

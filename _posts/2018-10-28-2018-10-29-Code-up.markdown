@@ -1,0 +1,129 @@
+---
+title: "2018 10 29 Code Up"
+layout: post
+date: 2018-10-29 23:02
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- C
+- Code Up
+category: project
+projects: true
+---
+
+# 2018-10-29 Code Up
+
+### 1096 : [기초-종합+배열] 바둑판에 흰돌 놓기
+
+- http://codeup.kr/JudgeOnline/problem.php?id=1096
+
+### 문제 설명 
+
+ 바둑판(19 * 19)에 n개의 흰돌을 놓는다고 할 때, n개의 흰돌이 놓인 위치를 출력하는 프로그램을 작성해보자.
+
+### 입력 
+
+- 바둑판에 올려 놓을 흰돌의 개수(n) 가 첫 줄에 입력된다.
+  둘째 줄 부터 n+1 번째 줄까지 힌돌을 놓을 좌표(x, y)가 n줄 입력된다.
+  (단, n은 10이하의 자연수이고 바둑 판의 x, y 좌표는 1 ~19 까지이며, 같은 좌표는 입력되지 않는다.)
+
+### 출력
+
+- 흰돌이 올려진 바둑판의 상황을 출력한다. (흰돌이 있는 위치는 1, 없는 곳은 0으로 출력한다.)
+
+
+
+### Code 
+
+```c
+#include <stdio.h>
+ 
+int main() {
+    int jj[20][20] = { 0, }, n, x,y;
+    scanf("%d", &n);
+    for (int i = 0; i < n; i++) {
+        scanf("%d %d", &x, &y);
+        jj[x][y] = 1;
+    }
+    for (int i = 1; i < 20; i++) {
+        for (int j = 1; j < 20; j++) {
+            printf("%d ", jj[i][j]);
+        }
+        printf("\n");
+    }
+}
+```
+
+
+
+### 1468 : [기초-배열연습] 2차원 배열 지그재그 채우기 2-1 
+
+- http://codeup.kr/JudgeOnline/problem.php?id=1468
+
+### 문제 설명 
+
+ 다음과 같은 n*n 배열 구조를 출력해보자.
+
+입력이 3인 경우 다음과 같이 출력한다.
+1 2 3
+6 5 4
+7 8 9
+
+### 입력 
+
+- 첫 번째 줄에 배열의 크기 n이 입력된다.
+  [입력값의 정의역]
+  1<=  n <= 100
+
+### 출력
+
+- n*n 크기의 배열을 설명과 같이 채워 출력한다.
+
+### Code 
+
+```c
+#include <stdio.h>
+ 
+int main() {
+    int n, ok[100][100], k = 1, kk;
+    scanf("%d", &n);
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+            if (i % 2 == 0) {
+                ok[i][j] = k;
+                k++;
+            }
+            if (i % 2 == 1) {
+                ok[i][j] = kk;
+                kk--;
+            }
+        }
+        kk = (i + 2)* n;
+        k = kk-n+1 ;
+         
+    }
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+            printf("%d ", ok[i][j]);
+        }
+        printf("\n");
+    }
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

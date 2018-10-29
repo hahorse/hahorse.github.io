@@ -13,9 +13,9 @@ author: Yoon Ha Seo
 
 # 2018-10-28 TIL
 
-## 배운것 
+## 한것
 
-- GITHUB 사용 방법 학습
+- Github 사용 방법 학습
 
 ## 할것
 
