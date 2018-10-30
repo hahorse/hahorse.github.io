@@ -1,0 +1,26 @@
+---
+title: "2018 10 30 TIL"
+layout: post
+date: 2018-10-30 23:31
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- TIL
+star: true
+category: blog
+author: Yoon Ha Seo
+---
+
+# 2018-10-29 TIL
+
+## 한것
+
+- 영어 시험 대비 문제 풀기
+- 수학 문제집 ~261 풀이
+- Code Up 파스칼의 삼각형 2 시도 
+
+## 할것
+
+- 인공지능과 전기자동차 찾아보기
+- 자율주행 자동차 기술 찾아보기
+- Code Up 파스칼의 삼각형 2 완성
