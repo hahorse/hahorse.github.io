@@ -1,0 +1,24 @@
+---
+title: "2018 10 31 TIL"
+layout: post
+date: 2018-10-31 23:23
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- TIL
+star: true
+category: blog
+author: Yoon Ha Seo
+---
+
+# 2018-10-31 TIL
+
+## 한것
+
+- 수학 내신 대비 문제(숙명여중) 
+- Code Up 파스칼의 삼각형 2 70%완성 
+
+## 할것
+
+- 수학 내신 대비 문제 틀린 것 확인
+- 지원동기 예시 완성하기
