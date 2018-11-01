@@ -31,10 +31,10 @@ author: Yoon Ha Seo
     레벨3(조건적 자율주행) : 운전자의 적절한 대응을 전제로 모든 동적 운전을 자동화하는 단계로
     차량 제어의 권한이 운전자에게 간헐적으로 주어짐 (시스템 미작동 시)
     레벨4(완전자율주행) : 운행 가능한 모든 도로와 환경적 조건에서 완전한 자동화가 가능한 한 단계
-    * 출처 : National Highway Traffic Safety Administration (NHTSA 2013)
+    출처 : National Highway Traffic Safety Administration (NHTSA 2013)
     ```
 
-  - ![1541074429345](C:\Users\HaHorse\AppData\Roaming\Typora\typora-user-images\1541074429345.png)
+  - ![1541074429345](https://user-images.githubusercontent.com/44470752/47860839-dea7ba80-de34-11e8-9253-7ea87e8e27de.PNG)
 
 ## 할것
 
