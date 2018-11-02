@@ -1,0 +1,148 @@
+---
+title: "2018 11 02 Code Up"
+layout: post
+date: 2018-11-02 21:50
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- C
+- Code Up
+category: project
+projects: true
+---
+
+# 2018-11-02 Code Up
+
+### 3733 : 우박수 길이 (3n+1) (large)
+
+- http://codeup.kr/JudgeOnline/problem.php?id=3733
+
+### 문제 설명 
+
+콜라츠의 추측, 3n+1 문제, 우박수 문제라고 불리는 이 문제는 다음과 같다.
+
+1. 어떤 자연수 n이 입력되면,
+
+2. n이 홀수이면 3n+1을 하고,
+
+3. n이 짝수이면 n/2를 한다.
+
+4. 이 n이 1이 될때까지 2~3과정을 반복한다.
+
+예를 들어 5는 5 → 16 → 8 → 4 → 2 → 1 이 된다.
+
+여기서 5가 1이되기 위해 6개의 숫자를 나열하게 된다. 이것을 길이라고 하면 5의 길이는 6이된다.
+
+시작수와 마지막 수가 입력되면 그 두 사이게 길이가 가장긴 우박수와 그 길이를 출력하시오.
+
+### 입력 
+
+- 두 자연수 a, b가 공백으로 분리되어 입력된다. ( 1 <= a <= b <= **10,000,000** )
+
+### 출력
+
+- a에서 b사이에 길이가 가장긴 우박수와 그 길이를 출력한다. **만약 가장 긴 수가 두 개이상인 경우, 작은 숫자를 출력하시오.**
+
+
+
+### Code 
+
+```c
+#include <stdio.h>
+long n=0;
+int f(int a) {
+    if (a <= 1) {
+        n++;
+        return n;
+    }
+    else if (a % 2 == 1) {
+        n++;
+        f(3 * a + 1);
+    }
+    else if (a%2==0) {
+        n++;
+        f(a / 2);
+    }
+}
+int main() {
+    long a, b,max,maxi;
+    scanf("%d %d", &a, &b);
+    max = f(a);
+    maxi = a;
+    for (int i = a; i <= b; i++) {
+        n = 0;
+        if (max < f(i)) {
+            n = 0;
+            max = f(i);
+            maxi = i;
+        }
+    }
+    printf("%d %d", maxi, max);
+}
+//시간 초과 메모리 제이션 하기
+```
+
+
+
+### 1953 : (재귀함수) 삼각형 출력하기 1
+
+- http://codeup.kr/JudgeOnline/problem.php?id=1953
+
+### 문제 설명 
+
+ n이 입력되면 다음과 같은 삼각형을 출력하시오.
+
+예)
+
+n 이 5 이면
+
+```
+*
+**
+***
+****
+*****
+```
+
+
+
+**이 문제는 반복문 for, while 등을 이용하여 풀수 없습니다.**
+
+### 입력 
+
+-   길이 n이 입력된다.(1<=n<=150)
+
+### 출력
+
+- 삼각형을 출력한다.
+
+
+
+### Code 
+
+```c
+#include <stdio.h>
+int n,u;
+ 
+void k(int p) {
+    if (p == 0) {
+        return 0;
+    }
+    printf("*");
+    k(p - 1);
+}
+void f(int i) {
+    if (i == 1+n) {
+        return 0;
+    }
+    k(i);
+    printf("\n");
+    f(i + 1);
+     
+}
+int main() {
+    scanf("%d", &n);
+    f(1);
+}
+```
+

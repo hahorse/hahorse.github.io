@@ -1,0 +1,26 @@
+---
+title: "2018 11 02 TIL"
+layout: post
+date: 2018-11-02 23:46
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- TIL
+star: true
+category: blog
+author: Yoon Ha Seo
+---
+
+# 2018-11-02 TIL
+
+## 한것
+
+- 1953 : (재귀함수) 삼각형 출력하기 1(해결)
+- 3733 : 우박수 길이 (3n+1) (large) (메모리제이션 남음)
+- 영어 대비문제 해결 및 오답
+
+## 할것
+
+- 3733 : 우박수 길이 (3n+1) (large) (메모리제이션) 해결하기
+- 수학 기출 문제 2학교 풀기
+
