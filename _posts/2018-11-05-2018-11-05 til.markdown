@@ -1,0 +1,23 @@
+---
+title: "2018 11 04 TIL"
+layout: post
+date: 2018-11-04 22:33
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- TIL
+star: true
+category: blog
+author: Yoon Ha Seo
+---
+
+# 2018-11-04 TIL
+
+## 한것
+
+- 기말고사 Day-2 공부
+
+
+## 할것
+
+- 기말고사 공부
