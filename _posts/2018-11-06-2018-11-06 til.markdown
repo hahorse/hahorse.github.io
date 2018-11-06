@@ -1,7 +1,7 @@
 ---
-title: "2018 11 05 TIL"
+title: "2018 11 06 TIL"
 layout: post
-date: 2018-11-05 23:13
+date: 2018-11-06 23:10
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -11,11 +11,11 @@ category: blog
 author: Yoon Ha Seo
 ---
 
-# 2018-11-05 TIL
+# 2018-11-06 TIL
 
 ## 한것
 
-- 기말고사 Day-2 공부
+- 기말고사 Day-1 공부
 
 
 ## 할것
