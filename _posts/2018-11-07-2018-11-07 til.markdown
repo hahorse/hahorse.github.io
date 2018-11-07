@@ -1,0 +1,23 @@
+---
+title: "2018 11 07 TIL"
+layout: post
+date: 2018-11-07 23:10
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- TIL
+star: true
+category: blog
+author: Yoon Ha Seo
+---
+
+# 2018-11-07 TIL
+
+## 한것
+
+- 기말고사 수학, 기.가, 역사 시험 
+
+
+## 할것
+
+- 영어 사회 음악 공부
