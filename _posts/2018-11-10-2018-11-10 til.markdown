@@ -11,7 +11,7 @@ category: blog
 author: Yoon Ha Seo
 ---
 
-# 2018-11-09 TIL
+# 2018-11-10 TIL
 
 ## 한것
 
