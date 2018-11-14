@@ -1,0 +1,24 @@
+---
+title: "2018 11 14 TIL"
+layout: post
+date: 2018-11-14 23:43
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- TIL
+star: true
+category: blog
+author: Yoon Ha Seo
+---
+
+# 2018-11-13 TIL
+
+## 한것
+
+- 수학 상 (절대등급) 풀이
+- 수학 하 (RPM) 풀이
+
+
+## 할것
+
+- 인공지능 종류 찾아보기
