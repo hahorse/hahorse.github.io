@@ -1,0 +1,23 @@
+---
+title: "2018 11 14 TIL"
+layout: post
+date: 2018-11-14 23:43
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- TIL
+star: true
+category: blog
+author: Yoon Ha Seo
+---
+
+# 2018-11-13 TIL
+
+## 한것
+
+- 영어 분사구문 수업
+
+
+## 할것
+
+- 수학 문제 풀이
