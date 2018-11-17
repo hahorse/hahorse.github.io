@@ -1,7 +1,7 @@
 ---
-title: "2018 11 15 TIL"
+title: "2018 11 17 TIL"
 layout: post
-date: 2018-11-15 23:43
+date: 2018-11-17 23:43
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -11,13 +11,13 @@ category: blog
 author: Yoon Ha Seo
 ---
 
-# 2018-11-15 TIL
+# 2018-11-17 TIL
 
 ## 한것
 
-- 영어 분사구문 수업
+- 4차 산업 혁명 관련 찾아봄.
 
 
 ## 할것
 
-- 수학 문제 풀이
+- 수학, 영어 숙제
