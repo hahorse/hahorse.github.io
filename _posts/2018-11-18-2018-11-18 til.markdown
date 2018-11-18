@@ -1,0 +1,23 @@
+---
+title: "2018 11 18 TIL"
+layout: post
+date: 2018-11-18 23:43
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- TIL
+star: true
+category: blog
+author: Yoon Ha Seo
+---
+
+# 2018-11-18 TIL
+
+## 한것
+
+- 포토폴리오 Git hub, 과학영재 작성
+
+
+## 할것
+
+- 포토폴리오 작성 
