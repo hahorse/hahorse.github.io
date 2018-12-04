@@ -1,0 +1,22 @@
+---
+title: "2018 12 04 TIL"
+layout: post
+date: 2018-12-04 23:43
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- TIL
+star: true
+category: blog
+author: Yoon Ha Seo
+---
+
+# 2018-12-04 TIL
+
+## 한것
+
+- 영어 it that구문, 단어 80개 암기
+
+## 할것
+
+- 수학 공부
