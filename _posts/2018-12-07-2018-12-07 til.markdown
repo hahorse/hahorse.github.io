@@ -1,0 +1,25 @@
+---
+title: "2018 12 07 TIL"
+layout: post
+date: 2018-12-07 23:43
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- TIL
+star: true
+category: blog
+author: Yoon Ha Seo
+---
+
+# 2018-12-07 TIL
+
+## 한것
+
+- mac과 windows 비교 
+  - 사람마다 의견은 다르나 mac을 사용하면 Terminal을 사용해 여러 프로그램들을 쉽게 설치 가능하다는 점이 공통적이였다.
+    - 현재 나는 windows를 사용하고 있는데 각종 라이브러리 다운로드, 어플 다운, 삭제 등에서 불편을 느낌.
+    - 과거 라즈베리파이를 사용했을 때 Terminal로 편리하게 설치 실행을 한 기억이있다.
+
+## 할것
+
+- 영어와 수학 기초를 단단히하기
