@@ -1,0 +1,22 @@
+---
+title: "2018 12 08 TIL"
+layout: post
+date: 2018-12-08 23:43
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- TIL
+star: true
+category: blog
+author: Yoon Ha Seo
+---
+
+# 2018-12-08 TIL
+
+## 한것
+
+- 수학 고(하) - 경우의 수 학습
+
+## 할것
+
+- 정렬관련 알고리즘 정리 토~일
