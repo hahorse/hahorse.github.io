@@ -1,0 +1,22 @@
+---
+title: "2018 12 09 TIL"
+layout: post
+date: 2018-12-09 19:43
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- TIL
+star: true
+category: blog
+author: Yoon Ha Seo
+---
+
+# 2018-12-09 TIL
+
+## 한것
+
+- 정렬 알고리즘 정리 및 코드 재작성
+
+## 할것
+
+- 정렬 알고리즘 정리 끝내기
