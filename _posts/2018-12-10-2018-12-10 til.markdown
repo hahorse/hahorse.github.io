@@ -1,0 +1,29 @@
+---
+title: "2018 12 10 TIL"
+layout: post
+date: 2018-12-10 23:12
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- TIL
+star: true
+category: blog
+author: Yoon Ha Seo
+---
+
+# 2018-12-10 TIL
+
+## 한것
+
+- Bubble Sort - 
+
+  ![1544451399616](C:\Users\HaHorse\AppData\Roaming\Typora\typora-user-images\1544451399616.png)
+
+- Selection Sort -
+
+  ![1544451609872](C:\Users\HaHorse\AppData\Roaming\Typora\typora-user-images\1544451609872.png)
+
+
+## 할것
+
+- 정렬알고리즘 코드 재구성
