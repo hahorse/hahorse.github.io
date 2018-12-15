@@ -1,0 +1,25 @@
+---
+title: "2018 12 15 TIL"
+layout: post
+date: 2018-12-15 23:12
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- TIL
+star: true
+category: blog
+author: Yoon Ha Seo
+---
+
+# 2018-12-15 TIL
+
+## 한것
+
+- 수학 상, 하 풀이 및 시험 대비
+
+## 할것
+
+- 정렬알고리즘 코드 재구성
+- 수학 상, 하 문제 해결
+- 영어 학원 찾기
+
