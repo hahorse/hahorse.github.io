@@ -1,7 +1,7 @@
 ---
-title: "2018 12 13 TIL"
+title: "2018 12 14 TIL"
 layout: post
-date: 2018-12-13 23:12
+date: 2018-12-14 23:12
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -11,7 +11,7 @@ category: blog
 author: Yoon Ha Seo
 ---
 
-# 2018-12-13 TIL
+# 2018-12-14 TIL
 
 ## 한것
 
