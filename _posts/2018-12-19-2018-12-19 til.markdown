@@ -1,0 +1,25 @@
+---
+title: "2018 12 19 TIL"
+layout: post
+date: 2018-12-19 23:02
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- TIL
+star: true
+category: blog
+author: Yoon Ha Seo
+---
+
+# 2018-12-19 TIL
+
+## 한것
+
+- 영어 단어 암기
+
+## 할것
+
+- 정렬알고리즘 코드 재구성 *꼭 하기* : 일요일
+- 수학 상, 하 문제 해결
+
+
